@@ -1,6 +1,7 @@
 # nesp-qt-sdk
 Nesp Software Development Kit for QT
-##　Support Platforms
+
+## Support Platforms
 - Windows
 - Mac OSX
 - Linux
